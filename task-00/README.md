@@ -1,0 +1,1 @@
+I uses a MacBook. Since macOS users are not required to install Ubuntu, I haven't. MacOS is a linux based operating system. I've learnt lot of fundamental terminal commands by using web resources. Additionally, I installed home brew by following the guidelines provided in internet.

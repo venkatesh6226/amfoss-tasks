@@ -1,0 +1,5 @@
+pass:
+6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+command:
+cat data.txt | base64 -d

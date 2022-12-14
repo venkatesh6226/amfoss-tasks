@@ -1,0 +1,5 @@
+pass:
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+command:
+sort data.txt | uniq -u

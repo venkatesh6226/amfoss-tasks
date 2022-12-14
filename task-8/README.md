@@ -1,0 +1,1 @@
+I have learnt basics of html, css and java script. I tried my level best to make the best website as per the instructions. The directory named solutions contain the source code of my website. I hope you like it 😀.

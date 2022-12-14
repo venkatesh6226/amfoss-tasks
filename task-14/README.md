@@ -1,0 +1,1 @@
+When i started this task I am very confused with the commands, but later on learning the required topics from internet resources I solved this task simply upto level 10. I came to know that upto level 10 is enough after completing upto level 27. But by doing this task i am very much familiar with the terminal commands.

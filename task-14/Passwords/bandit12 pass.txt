@@ -1,0 +1,5 @@
+pass:
+JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
+command:
+cat data.txt | tr 'n-za-mN-ZA-M' 'a-zA-Z'

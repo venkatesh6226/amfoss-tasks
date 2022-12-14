@@ -1,0 +1,1 @@
+I have no idea about flutter. So i started researching internet resources and installed flutter and flame package. I tried a lot to finish this task but i am not able to do it.

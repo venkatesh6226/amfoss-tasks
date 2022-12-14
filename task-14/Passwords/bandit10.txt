@@ -1,0 +1,7 @@
+pass:
+G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+commands:
+ls
+file data.txt
+strings data.txt | grep -E "==+"

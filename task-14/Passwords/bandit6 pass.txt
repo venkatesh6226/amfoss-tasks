@@ -1,0 +1,8 @@
+pass:
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+location:
+./inhere/maybehere07/.file2
+
+Command:
+/inhere$ find ./ -type f -size 1033c ! -executable

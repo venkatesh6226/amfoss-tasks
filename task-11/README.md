@@ -1,0 +1,1 @@
+I am a bit familiar with figma, but for the task i have resourched more about figma and started completing this task. I used my own creativity and designed and user interface for amfoss. I have also prototyped it. Hope you like it 😀.

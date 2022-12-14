@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: #324928;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-shadow: 5px 0 #04cfda;
+
+}
+
+footer {
+  color: #dbe7f3;
+  font-family: sans-serif;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #e9dbf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: rgb(255, 191, 0);
+}
+
+.drum {
+  outline: none;
+  border: 9px solid #446940;
+  font-size: 5rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 2;
+  font-weight: 800;
+  color: #da04c5;
+  text-shadow: 3px 0 #e0f3db;
+  border-radius: 14px;
+  display: inline-block;
+  width: 155px;
+  height: 145px;
+  text-align: center;
+  margin: 9px;
+  background-color: rgb(255, 255, 255);
+}
